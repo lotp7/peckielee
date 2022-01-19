@@ -1,5 +1,5 @@
 # Hi there!
-I am Peckie, a graduate student in MEng, Systems and Technology, with the focus on machine learning and data analysis. 
+I am Peckie, a graduate student in MEng, Systems and Technology, with the focus on machine learning and data analysis. I enjoy understanding the world with data. 
 
 **Projects**
 1. Comparing feature extraction and classification approaches on predicting garment worker productivity
