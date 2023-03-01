@@ -1,4 +1,4 @@
-# Hi there!
+# Hi There!
 I am Peckie, a graduate co-op student in MEng, Systems and Technology. I enjoy understanding the world with data. 
 
 **Projects**
